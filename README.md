@@ -9,3 +9,31 @@ Project details will be added here.
 ## Getting Started
 
 Add your project files, then update this README with setup and usage notes.
+# my-project
+
+这是一个由 Codex 协助初始化的 GitHub 项目仓库。
+
+## 项目简介
+
+这个仓库用于存放项目代码、说明文档和后续更新内容。
+
+## 仓库内容
+
+- `README.md`：项目说明文档
+- `.gitignore`：忽略本地临时文件、日志文件和构建产物
+
+## 使用方式
+
+后续可以把项目文件添加到这个仓库中，并在这里补充：
+
+- 项目功能介绍
+- 安装或运行步骤
+- 使用示例
+- 更新记录
+
+## 后续计划
+
+- 添加项目源码
+- 完善项目说明
+- 根据项目类型补充运行步骤
+- 添加许可证文件
